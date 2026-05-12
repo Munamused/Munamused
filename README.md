@@ -1,6 +1,5 @@
 - 🤟☺️🤚 Hi, I’m @Munamused
-- 🎨🖥️👩🏻‍💻 I’m interested in Software Engineering, Computer Graphics, Art and Design.
-- 💻🕹️📝 I’m currently pursuing my Bachelors in Computer Science.
-- 🤝🤝🤝 How to reach me -->> [PERSONAL EMAIL](madison.lopez.8404@gmail.com) [WORK/SCHOOL EMAIL](mlope310@calpoly.edu)
+- 🎨🖥️👩🏻‍💻 Im a recent Computer Science Grad from CalPoly, looking to contribute to the coolest impactful projects. I'm someone who finds interest in every niche and cranny of interdisciplinary subjects with software, whether it be webdev to HPC to graphics!
+- 🤝🤝🤝 How to reach me -->> [EMAIL](lopez.madison@proton.me)
 
 --> Thank You and Chat soon!!!
